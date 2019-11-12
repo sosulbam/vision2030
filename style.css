@@ -1,0 +1,6 @@
+@charset "utf-8";
+
+    a:link { color: blue; text-decoration: none; }
+    a:visited { color: purple; text-decoration: none; }
+    a:hover { color: red; text-decoration: underline; }
+    a:active { color: white; background-color: green; }
