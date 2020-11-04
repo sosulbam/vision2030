@@ -4,3 +4,10 @@
     a:visited { color: purple; text-decoration: none; }
     a:hover { color: red; text-decoration: underline; }
     a:active { color: white; background-color: green; }
+
+
+<meta charset="utf-8"/>
+
+<meta name="viewport"
+content="width=device-width, user-scalable=yes,
+initial-scale=1.0, maximum-scale=3.0"/>
