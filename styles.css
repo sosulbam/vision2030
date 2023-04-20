@@ -56,18 +56,18 @@ header {
     
 
 #country-details {
-  font-size: 1rem; /* 글자 크기를 키웁니다 */
+  font-size: 1.2rem; /* 글자 크기를 키웁니다 */
   font-weight: bold; /* 글자를 두껍게 합니다 */
   text-align: center; /* 왼쪽 정렬을 적용합니다 */
-  line-height: 1.7; /* 줄 간격을 조절합니다 */
+  line-height: 1.6; /* 줄 간격을 조절합니다 */
   white-space: pre-wrap; /* 줄바꿈을 적용합니다 */
 }
 
 #prayer-title {
-  font-size: 1rem; /* 글자 크기를 키웁니다 */
+  font-size: 1.2rem; /* 글자 크기를 키웁니다 */
   font-weight: bold; /* 글자를 두껍게 합니다 */
   text-align: left; /* 왼쪽 정렬을 적용합니다 */
-  line-height: 1.7; /* 줄 간격을 조절합니다 */
+  line-height: 1.6; /* 줄 간격을 조절합니다 */
   white-space: pre-wrap; /* 줄바꿈을 적용합니다 */  
 }
 
