@@ -4,15 +4,19 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="styles.css">
-  <title>세계 기도 제목</title>
+  <title>세계 기도 제목 - 나라 상세 정보</title>
 </head>
 <body>
   <header>
     <h1>세계 기도 제목</h1>
   </header>
 
-  <div id="countries-table">
-    <!-- 나라 목록이 여기에 추가됩니다. -->
+  <div id="country-details">
+    <h2 id="country-name"></h2>
+    <p id="country-info"></p>
+    <h3>기도 제목</h3>
+    <p id="prayer-title"></p>
+    <button id="back-button" onclick="window.history.back();">뒤로 가기</button>
   </div>
 
   <script src="main.js"></script>
